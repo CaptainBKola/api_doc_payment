@@ -1,4 +1,4 @@
-# Public Rest API for Viddatech Twitter API Consumption
+# Public Rest API for Paytol Twitter API Consumption
 
 ## General API Information
 
