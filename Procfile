@@ -1,1 +1,1 @@
-web: gunicorn tweet-api:tweet-api
+web: gunicorn app:app
